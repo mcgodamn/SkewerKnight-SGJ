@@ -1,0 +1,131 @@
+fileFormatVersion: 2
+guid: 19c88e6e4ec97994d9543911907eb587
+timeCreated: 1472060579
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Cloud_0
+    21300002: Cloud_1
+    21300004: Cloud_2
+    21300006: Cloud_3
+    21300008: Cloud_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Cloud_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 91
+        width: 42
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cloud_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 84
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cloud_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 63
+        width: 68
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 21.5}
+        - {x: -30, y: 17.5}
+        - {x: -34, y: -1.5}
+        - {x: -34, y: -19.5}
+        - {x: -28, y: -21.5}
+        - {x: 34, y: -21.5}
+        - {x: 34, y: 0.5}
+        - {x: 23, y: 21.5}
+    - name: Cloud_3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 36
+        width: 89
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.5, y: 22}
+        - {x: -44.5, y: 16}
+        - {x: -44.5, y: -22}
+        - {x: 44.5, y: -22}
+        - {x: 44.5, y: 15}
+        - {x: 37.5, y: 22}
+    - name: Cloud_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 53
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
